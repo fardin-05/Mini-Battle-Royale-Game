@@ -1,0 +1,10 @@
+*.html linguist-language=Python
+*.toc linguist-language=Python
+*.zip linguist-language=Python
+*.pkg linguist-language=Python
+*.pyz linguist-language=Python
+*.txt linguist-language=Python
+*.html linguist-language=Python
+*.pyc linguist-language=Python
+*.spec linguist-language=Python
+
