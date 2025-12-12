@@ -44,7 +44,7 @@ p1_img, has_p1_img = load_image('p1.png', 40, 40, BLUE)
 p2_img, has_p2_img = load_image('p2.png', 40, 40, GREEN)
 bullet_img, has_bullet_img = load_image('bullet.png', 10, 10, YELLOW)
 
-#BackGround Logic
+#-BackGround Logic-
 BG_IMAGE_NAME = 'bg.png'
 BACKGROUND_IMG = None
 
